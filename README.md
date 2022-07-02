@@ -20,12 +20,10 @@ Create many random file and after some time the maschine get a [BSOD](https://de
 
 
 Payload 3:
-
 screen effect and also after some time the maschine get a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows))
 
 
 Payload 4:
-
 This is the final payload. I don't want to say too much but what i can say is that a typing notepad opens and you should enjoy the last minute. 
 because you get some screen effect and a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows)) after that the [MBR](https://de.wikipedia.org/wiki/Master_Boot_Record) is overridden with a custom message and your machine is unbootable
   
