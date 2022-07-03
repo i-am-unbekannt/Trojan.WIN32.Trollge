@@ -6,21 +6,21 @@
 
 Greetz everybody,
 
-Malware is something no one likes but some people like test other malware so i decided to create one.
-It's called "Trollge Incident". and i give you some infos what happen if you run it (dont run this on a real computer)
-There are 4 payloads that go through automatically.
+Malware is something no one likes but some people like test malware so i decided to create one.
+It's called "Trollge Incident". and i give you some infos what happen if you run it. There are 4 payloads that go through automatically.
+If you want to skip a payload, just wait for the payload to start and restart your machine.
 
 Payload 1:
-gets executed after the first run, it change some regs and more like disable cmd, task manager, rename the user, add users and more
-if everything was successful, the computer will be restarted
+gets executed after the first run, it change some registrys and more like disable cmd, task manager, rename the user, add users and more
+if everything was successful, the machine will be restarted
 
 
 Payload 2:
-Create many random file and after some time the maschine get a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows))
+Create many random file and after some time the machine get a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows))
 
 
 Payload 3:
-screen effect and also after some time the maschine get a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows))
+screen effect and also after some time the machine get a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows))
 
 
 Payload 4:
