@@ -7,25 +7,24 @@
 Greetz everybody,
 
 Malware is something no one likes but some people like to test malware so i decided to create one.
-It's called "Trollge Incident". and i give you some infos what happen if you run it. There are 4 payloads that go through automatically.
+It's called "Trollge Incident". and i give you some infos what happen if you test it. There are 4 payloads that go through automatically.
 If you want to skip a payload, just wait until a payload has started and restart your machine.
 
 Payload 1:
-gets executed after the first run, it change some registrys and more like disable cmd, task manager, rename the user, add users and more
+changes registrys disable cmd, task manager, regedit, rename user and add users...
 if everything was successful, the machine will be restarted
 
 
 Payload 2:
-Create many random file and after some time the machine gets a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows))
+Create random files and after some time the machine gets a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows))
 
 
 Payload 3:
-screen effect and also after some time the machine gets a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows))
+screen effect and after some time the machine gets a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows))
 
 
 Payload 4:
-This is the final payload. I don't want to say too much but what i can say is that a typing notepad opens and you should enjoy the last minute. 
-You get some screen effect and a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows)) after that the [MBR](https://de.wikipedia.org/wiki/Master_Boot_Record) is 
+typing notepad, screen effect and a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows)) after that the [MBR](https://de.wikipedia.org/wiki/Master_Boot_Record) is 
 overridden with a custom message and your machine is unbootable.
  
 If you find some errors or you have some ideas to add just message me on instagram [@i_am_unbekannt](https://instagram.com/i_am_unbekannt)
