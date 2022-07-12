@@ -27,4 +27,4 @@ Payload 4:
 typing notepad, screen effect and a [BSOD](https://de.wikipedia.org/wiki/Bluescreen_(Windows)) after that the [MBR](https://de.wikipedia.org/wiki/Master_Boot_Record) is 
 overridden with a custom message and your machine is unbootable.
  
-If you find some errors or you have some ideas to add just message me on instagram [@i_am_unbekannt](https://instagram.com/i_am_unbekannt)
+If you find some errors or you have some ideas to add just message me on instagram [@i_am_unbekannt](https://instagram.com/i_am_unbekannt) or on [Discord](dcs.gg/unbekannt-comminuty)
