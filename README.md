@@ -10,6 +10,8 @@ Malware is something no one likes but some people like to test malware so i deci
 It's called "Trollge Incident". and i give you some infos what happen if you test it. There are 4 payloads that go through automatically.
 If you want to skip a payload, just wait until a payload has started and restart your machine.
 
+works on: Windows 10
+
 Payload 1:
 changes registrys disable cmd, task manager, regedit, rename user and add users...
 if everything was successful, the machine will be restarted
