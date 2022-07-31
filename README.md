@@ -5,14 +5,13 @@ This repository is malware. with mean this file is **malicious** so I strongly r
 **I am not responsible for any damage caused by the malware inside my repository**
 
 ### About
-Greetz everybody,
-Here are some infos about the Trojan
-
-| **Name:**      | Trollge Incident |
-| **File Name:** | WinCustom.exe    |
-| **Language:**  | C++              |
-| **Size:**      | 1.81 MB          |
-| **OS:**        | Windows 10       |
+| Infos about the Trojan          |
+| ------------------------------- |
+| **Name:**      Trollge Incident |
+| **File Name:** WinCustom.exe    |
+| **Language:**  C++              |
+| **Size:**      1.81 MB          |
+| **OS:**        Windows 10       |
 
 ### Payloads
 There are 3 different payloads that go through automatically. If you want to skip a payload, just wait until a payload has started and restart your machine.
