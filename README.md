@@ -4,9 +4,7 @@ This repository is malware. with mean this file is **malicious** so I strongly r
 
 **I am not responsible for any damage caused by the malware inside my repository**
 
-### About
-| **General info about the trojan** |
-| ------------------------------- |
+### File
 | **Name:**      Trollge Incident |
 | **File Name:** WinCustom.exe    |
 | **Language:**  C++              |
