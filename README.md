@@ -1,8 +1,8 @@
-# Trollge Incident
+8# Trollge Incident
 ### Disclaimer
 This repository is malware. with mean this file is **malicious** so I strongly recommend you to neither open this file on real hardware, nor misuse the malware to *prank* your friends.
 
-**I am not responsible for any damage caused by the malware inside my repository**
+**I am not responsible for any damage caused by this malware inside my repository**
 
 ### File
 | The File Himself                |
