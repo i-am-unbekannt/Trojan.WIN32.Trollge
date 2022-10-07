@@ -10,7 +10,7 @@ This repository is malware. with mean this file is **malicious** so I strongly r
 | **Name:**      Trollge Incident |
 | **File Name:** WinCustom.exe    |
 | **Language:**  C++              |
-| **Size:**      1.58 MB          |
+| **Size:**      1.62 MB          |
 | **OS:**        Windows 10       |
 
 ### Payloads
@@ -18,7 +18,7 @@ There are 3 different payloads that go through automatically. If you want to ski
 | Num | Payloads                                           |
 | --- |----------------------------------------------------|
 | 1.  | Files with corrupted names                         |
-| 2.  | Filling black screen effect & moving desktop icons |                  |
+| 2.  | Filling black screen effect & moving desktop icons |
 | 3.  | Typing Notepad screen & bootloader destruction     |
 
 ### Sneak peek
