@@ -21,7 +21,8 @@ There are 3 different payloads that go through automatically. If you want to ski
 | 2.  | Filling black screen effect & moving desktop icons |
 | 3.  | Typing Notepad screen & bootloader destruction     |
 
-### Sneak peek
+### Sneak peeks
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/808620387390324746/992774610640703498/1.png">
+  <img src="https://cdn.discordapp.com/attachments/808620387390324746/1028633597801926746/Note-GIF.gif">
+  <img src="https://cdn.discordapp.com/attachments/808620387390324746/1028633597281845288/Move-GIF.gif">
 </p>
