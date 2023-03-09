@@ -2,6 +2,9 @@
 ### Disclaimer
 This repository is malware. with mean this file is **malicious** so I strongly recommend you to neither open this file on real hardware, nor misuse the malware to *prank* your friends.
 
+### INFO
+The file "WinCustom.exe" is temporarily unavailable because it has been updated!
+
 **I am not responsible for any damage caused by this malware inside my repository**
 
 ### File
@@ -9,8 +12,8 @@ This repository is malware. with mean this file is **malicious** so I strongly r
 | ------------------------------- |
 | **Name:**      Trollge Incident |
 | **File Name:** WinCustom.exe    |
-| **Language:**  C++              |
-| **Size:**      1.62 MB          |
+| **Language:**  C#               |
+| **Size:**      ?MB              |
 | **OS:**        Windows 10       |
 
 ### Payloads
